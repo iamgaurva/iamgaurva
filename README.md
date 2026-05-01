@@ -2,7 +2,7 @@
 Integrated M.Tech student in Computer Science and Engineering, specializing in Machine Learning, Federated Learning, and Large Language Models. Experienced in building end-to-end AI systems — from federated optimization achieving ~90% communication reduction at 86.8% accuracy (ongoing IEEE paper) to LLM-based tools and full-stack applications using Python, React.js, and Django. Comfortable working across the stack with hands-on experience in model evaluation, drift detection, REST APIs, and real-time data pipelines. Beyond the technical side, I've led team-based projects under competitive settings like Smart India Hackathon, managing timelines, delegating tasks, and driving cross-functional collaboration. Certified in Graphic Design, Content Marketing, and Design Thinking, I bring a creative edge to problem-solving and can communicate complex ideas clearly — whether writing research papers, designing interfaces, or pitching solutions to non-technical audiences.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-gaurav-a9793b229/) 
 
 # 💻 Tech Stack:
