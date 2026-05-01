@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Improving my AIML skills<br>Building real-world projects and contributing regularly on GitHub<br>Strengthening my core programming and DSA fundamentals<br>Looking forward to contribute and connect
 
 
