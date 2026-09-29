@@ -6,6 +6,7 @@ Beyond the technical side, I've led team-based projects under competitive settin
 I bring a creative edge to problem-solving and can communicate complex ideas clearly — whether writing research papers, designing interfaces, or pitching solutions to non-technical audiences.
 
 
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-gaurav-a9793b229/) 
 
