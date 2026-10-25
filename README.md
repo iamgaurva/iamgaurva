@@ -71,11 +71,7 @@ My goal is simple:
 <tr>
 <td width="50%">
 
-### 🎯 Rolisha
 
-A career roadmap platform designed to help students identify skill gaps and build structured career paths based on their goals.
-
-**Built around**
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
 
