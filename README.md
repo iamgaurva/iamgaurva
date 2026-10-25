@@ -1,34 +1,198 @@
-# About Me:
-Integrated M.Tech student in Computer Science and Engineering, specializing in Agentic AI, Machine Learning, Federated Learning, and Large Language Models. 
-Published research paper in federated learning, my proposed method reduce ~90% of communication cost at 86.8% accuracy for heterogenous devices. 
-Developing LLM-based tools and full-stack applications made me comfortable working across the stack with hands-on experience in model evaluation, drift detection, REST APIs, and real-time data pipelines. 
-Beyond the technical side, I've led team-based projects under competitive settings like Smart India Hackathon, managing timelines, delegating tasks, and driving cross-functional collaboration. 
-I bring a creative edge to problem-solving and can communicate complex ideas clearly — whether writing research papers, designing interfaces, or pitching solutions to non-technical audiences.
+# 👋 Hi, I'm Kumar Gaurav
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Software+Enthusiast;Building+Ideas+Into+Real+Products" alt="Typing SVG" />
+</p>
 
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-gaurav-a9793b229/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<p align="center">
+  <a href="https://github.com/iamgaurva">
+    <img src="https://img.shields.io/github/followers/iamgaurva?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/iamgaurva?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamgaurva/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamgaurva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**iamgaurva/iamgaurva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about **software development, AI, and building practical digital products**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy taking an idea from concept to implementation, working across frontend, backend, databases, authentication, APIs, and deployment.
+
+My goal is simple:
+
+> **Build useful software, keep learning, and turn ideas into products that solve real problems.**
+
+* 🎓 Computer Science student
+* 💻 Focused on Full Stack Development
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 🛠️ Building real-world projects
+* 📚 Continuously improving my software engineering skills
+* 🌱 Currently learning and experimenting with new technologies
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,sql" alt="JavaScript, TypeScript, Python, Java, C++ and SQL" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" alt="React, Next.js, HTML, CSS, Tailwind CSS and Vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mongodb,supabase" alt="Node.js, Django, PostgreSQL, MongoDB and Supabase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" alt="Git, GitHub, AWS, Postman and VS Code" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Rolisha
+
+A career roadmap platform designed to help students identify skill gaps and build structured career paths based on their goals.
+
+**Built around**
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
+
+**Focus**
+
+Career Roadmaps • Skill Gaps • Learning • Projects • Assessments
+
+</td>
+
+<td width="50%">
+
+### 🏙️ Samadhan Kendra
+
+A civic technology platform that allows citizens to report local issues and helps authorities manage, prioritize, and track their resolution.
+
+**Built around**
+
+`React` `Next.js` `Django` `MongoDB`
+
+**Focus**
+
+Civic Tech • Issue Reporting • Location Services • Administration
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ What I'm Interested In
+
+```text
+Full Stack Development
+        ↓
+Scalable Web Applications
+        ↓
+AI Powered Products
+        ↓
+Real World Problem Solving
+        ↓
+Production Ready Software
+```
+
+I'm particularly interested in the intersection of **software engineering and AI**, where intelligent systems can make applications more useful and personalized.
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/iamgaurva">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity" />
+  </a>
+  <a href="https://github.com/iamgaurva?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+</p>
+
+GitHub's native profile provides my **contribution graph, activity timeline, repository activity, and contribution history** directly on my profile.
+
+<p align="center">
+  <a href="https://github.com/iamgaurva">
+    <b>→ View my GitHub activity</b>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/iamgaurva?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements" />
+  </a>
+</p>
+
+My GitHub achievements are displayed directly through GitHub's native profile system.
+
+<p align="center">
+  <a href="https://github.com/iamgaurva?tab=achievements">
+    <b>→ View my GitHub achievements</b>
+  </a>
+</p>
+
+---
+
+## 📌 Explore My Work
+
+<p align="center">
+  <a href="https://github.com/iamgaurva?tab=repositories">
+    <img src="https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+  </a>
+  <a href="https://github.com/iamgaurva?tab=projects">
+    <img src="https://img.shields.io/badge/GitHub%20Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamgaurva/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Kumar%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/iamgaurva">
+    <img src="https://img.shields.io/badge/GitHub-iamgaurva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamgaurva&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile. Let's build something meaningful. 🚀</i>
+</p>
+
