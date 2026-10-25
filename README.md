@@ -75,11 +75,7 @@ My goal is simple:
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
 
-**Focus**
 
-Career Roadmaps • Skill Gaps • Learning • Projects • Assessments
-
-</td>
 
 <td width="50%">
 
